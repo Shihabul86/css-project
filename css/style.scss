@@ -1,0 +1,29 @@
+.carousel-indicators{
+    top: 105%;
+    .bulet{
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+    }
+}
+@font-face {
+    font-family: robotoBold;
+    src: url(../fonts/roboto/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: robotoLight;
+    src: url(../fonts/roboto/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: robotoRegular;
+    src: url(../fonts/roboto/Roboto-Regular.ttf);
+}
+.robotoBold{
+    font-family: robotoBold;
+}
+.robotoLight{
+    font-family: robotoLight;
+}
+.robotoRegular{
+    font-family: robotoRegular;
+}
